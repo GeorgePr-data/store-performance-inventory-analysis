@@ -31,3 +31,21 @@ The dashboard includes:
 ## Notes
 
 This project uses anonymized data for presentation purposes and is based on real retail operations scenarios.
+
+### Dashboard Overview
+
+![Overview](dashboard-overview.png)
+
+*Overview of store performance and inventory efficiency across locations.*
+
+### Store-Level Opportunity (High Sell-through, Low Stock)
+
+![Redistribution](store-redistribution-opportunity.png)
+
+*Higher sell-through in one store despite lower stock levels highlights a clear opportunity for stock redistribution.*
+
+### Category Underperformance (Low Sell-through, High Stock)
+
+![Underperformance](category-underperformance.png)
+
+*Low sell-through combined with relatively high inventory indicates inefficient stock allocation and potential overstock risk.*
