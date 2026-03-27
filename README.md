@@ -10,17 +10,17 @@ The goal of this project is to evaluate store performance in relation to invento
 
 This analysis was built around four core decision areas:
 
-1. Store Performance Efficiency
+1. Store Performance Efficiency : 
 Which store underperforms relative to the inventory it holds?
 
 → Focus on stock efficiency, not just total sales
 
-2. Inventory Risk Detection
+2. Inventory Risk Detection : 
 Are there categories or subcategories where stock accumulates without sufficient sales?
 
 → Early identification of slow-moving or dead stock
 
-3. Stock Reallocation Opportunities
+3. Stock Reallocation Opportunities : 
 Are there indications that products or categories would perform better if moved across stores?
 
 → Example:
@@ -28,7 +28,7 @@ Are there indications that products or categories would perform better if moved 
 - Store A: high stock, low sales
 - Store B: low stock, high sales
 
-4. Sales Quality vs Inventory Investment
+4. Sales Quality vs Inventory Investment : 
 Which categories generate revenue but tie up disproportionate inventory?
 
 → Focus on efficiency, not just revenue
